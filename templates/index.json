@@ -299,6 +299,7 @@
         },
         "image_item_6La3Vq": {
           "type": "image_item",
+          "disabled": true,
           "settings": {
             "title": "Image With Text",
             "des_bottom": "",
@@ -308,6 +309,7 @@
         },
         "image_item_Njfgzp": {
           "type": "image_item",
+          "disabled": true,
           "settings": {
             "title": "Image With Text",
             "des_bottom": "",
