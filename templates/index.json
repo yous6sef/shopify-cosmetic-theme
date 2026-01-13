@@ -328,7 +328,7 @@
         "image_item_6RTt7N": {
           "type": "image_item",
           "settings": {
-            "image": "shopify://shop_images/images_7.jpg",
+            "image": "shopify://shop_images/eyeshadows-eyeliners-mascaras-and-brow-products-for-stunning-eyes-use-pink-colors-for-img-cover.png",
             "title": "Eye Makeup",
             "des_bottom": "Eyeshadows, eyeliners, mascaras, and brow products for stunning eyes",
             "link": "Shop Now",
@@ -338,7 +338,7 @@
         "image_item_HNzABm": {
           "type": "image_item",
           "settings": {
-            "image": "shopify://shop_images/images_4_93ead4b9-bae8-4cdf-9966-e8f38c9d0253.jpg",
+            "image": "shopify://shop_images/luxurious-body-lotions-oils-and-scrubs-for-silky-smooth-skin-pink-xolors-for-img-cover.png",
             "title": "Body Care",
             "des_bottom": "Luxurious body lotions, oils, and scrubs for silky smooth skin",
             "link": "Shop Now",
@@ -348,7 +348,7 @@
         "image_item_hVFXXc": {
           "type": "image_item",
           "settings": {
-            "image": "shopify://shop_images/skin-care-products-and-img-cover-for-section.png",
+            "image": "shopify://shop_images/professional-beauty-tools-and-devices-for-at-home-treatments-use-pink-it-is-for-img-cover.png",
             "title": "Skincare Tools",
             "des_bottom": "Professional beauty tools and devices for at-home treatments",
             "link": "Shop Now",
@@ -378,6 +378,7 @@
         "image_item_8TTeUB": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/shampoos-conditioners-and-treatments-for-healthy-beautiful-hair-use-pink-this-is-for-img-cover.png",
             "title": "Hair Care",
             "des_bottom": "Shampoos, conditioners, and treatments for healthy, beautiful hair",
             "link": "Shop Now",
@@ -611,6 +612,7 @@
           "settings": {
             "title": "Customer Reviews",
             "heading_size": "h2",
+            "icon_user": "shopify://shop_images/images_fca7ad12-5d37-4dfd-8142-8c760d04cb08.jpg",
             "description": "<p>This skincare line has completely transformed my complexion. The serums are lightweight, absorb beautifully, and I've noticed a significant improvement in my skin's texture and radiance within just two weeks of use.</p>",
             "name": "Sarah M.",
             "company_name": "Beauty Enthusiast"
