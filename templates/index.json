@@ -369,6 +369,7 @@
         },
         "image_item_ArFyeH": {
           "type": "image_item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/makup-sets-and-boxes-and-gifts-img-cover-for-section-use-pink-palete.png",
             "title": "Health Care",
