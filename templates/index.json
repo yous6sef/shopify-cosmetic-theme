@@ -235,21 +235,21 @@
         "product_tabs_hkUPCM": {
           "type": "ProductTabs",
           "settings": {
-            "title": "Perfume",
+            "title": "Fragrances",
             "collection": "perfume"
           }
         },
         "product_tabs_KKrLWL": {
           "type": "ProductTabs",
           "settings": {
-            "title": "Lipsticks",
+            "title": "Makeup",
             "collection": "home-garden"
           }
         },
         "product_tabs_cKEJAk": {
           "type": "ProductTabs",
           "settings": {
-            "title": "All",
+            "title": "Shop All",
             "collection": "all"
           }
         }
@@ -263,9 +263,9 @@
         "color_scheme": "scheme-1",
         "padding_top": 10,
         "padding_bottom": 40,
-        "title": "New Products",
+        "title": "Featured Collections",
         "heading_size": "h2",
-        "description": "<p>Nullam aliquet vestibulum augue non varius.</p>",
+        "description": "<p>Discover our curated selection of premium skincare, makeup, and beauty essentials.</p>",
         "collection_layout": "carousel",
         "column": 5,
         "limit_product": 10,
