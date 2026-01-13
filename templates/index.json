@@ -151,30 +151,35 @@
         "image_item_DdUR9g": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/images_13.jpg",
             "link_url": "/"
           }
         },
         "image_item_pFBVrM": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/images_3.png",
             "link_url": "/"
           }
         },
         "image_item_9FGRn8": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/images_4.png",
             "link_url": "/"
           }
         },
         "image_item_EYdpR9": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/images.png",
             "link_url": "/"
           }
         },
         "image_item_RniHfD": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/images_5.png",
             "link_url": "/"
           }
         }
@@ -187,7 +192,7 @@
         "image_item_RniHfD"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-c552c7b8-e38f-4a1e-900f-b6c6dccd546c",
         "padding_top": 10,
         "padding_bottom": 40,
         "title": "Shop by Beauty Brands",
