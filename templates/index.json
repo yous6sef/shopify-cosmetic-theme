@@ -290,15 +290,35 @@
         "image_item_8Kq4yw": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/images_3.jpg",
             "title": "Face Care",
             "des_bottom": "Cleansers, toners, serums, and moisturizers for radiant, healthy skin",
             "link": "Shop Now",
             "link_url": "/"
           }
         },
+        "image_item_6La3Vq": {
+          "type": "image_item",
+          "settings": {
+            "title": "Image With Text",
+            "des_bottom": "",
+            "link": "shop now",
+            "link_url": ""
+          }
+        },
+        "image_item_Njfgzp": {
+          "type": "image_item",
+          "settings": {
+            "title": "Image With Text",
+            "des_bottom": "",
+            "link": "shop now",
+            "link_url": ""
+          }
+        },
         "image_item_ijLazJ": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/LL-scaled.jpg",
             "title": "Lip Care",
             "des_bottom": "Lip balms, glosses, and lipsticks in every shade and finish",
             "link": "Shop Now",
@@ -308,6 +328,7 @@
         "image_item_6RTt7N": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/images_7.jpg",
             "title": "Eye Makeup",
             "des_bottom": "Eyeshadows, eyeliners, mascaras, and brow products for stunning eyes",
             "link": "Shop Now",
@@ -317,6 +338,7 @@
         "image_item_HNzABm": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/images_4_93ead4b9-bae8-4cdf-9966-e8f38c9d0253.jpg",
             "title": "Body Care",
             "des_bottom": "Luxurious body lotions, oils, and scrubs for silky smooth skin",
             "link": "Shop Now",
@@ -362,6 +384,8 @@
       },
       "block_order": [
         "image_item_8Kq4yw",
+        "image_item_6La3Vq",
+        "image_item_Njfgzp",
         "image_item_ijLazJ",
         "image_item_6RTt7N",
         "image_item_HNzABm",
