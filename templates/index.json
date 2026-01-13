@@ -368,6 +368,7 @@
         "image_item_ArFyeH": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/makup-sets-and-boxes-and-gifts-img-cover-for-section-use-pink-palete.png",
             "title": "Beauty Sets & Gifts",
             "des_bottom": "Curated gift sets perfect for beauty lovers and special occasions",
             "link": "Shop Now",
