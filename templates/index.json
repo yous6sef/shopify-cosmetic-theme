@@ -634,6 +634,7 @@
           "settings": {
             "title": "Customer Reviews",
             "heading_size": "h2",
+            "icon_user": "shopify://shop_images/images_2_9e78043f-8042-4001-99e6-b53e7462a37a.jpg",
             "description": "<p>Outstanding customer service and fast shipping! The products arrived in perfect condition, and the quality exceeded my expectations. I'll definitely be ordering again.</p>",
             "name": "Emma K.",
             "company_name": "Loyal Customer"
