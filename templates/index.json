@@ -406,7 +406,7 @@
         "heading_size": "h2",
         "description": "Find everything you need for your complete beauty routine",
         "button": "",
-        "button_link": "",
+        "button_link": "shopify://collections/all",
         "button2": "View All",
         "button_link2": "shopify://collections/all",
         "color_scheme_item": "scheme-3"
