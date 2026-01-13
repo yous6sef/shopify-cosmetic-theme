@@ -611,6 +611,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-3",
+        "image": "shopify://shop_images/LL-scaled.jpg",
         "padding_top": 0,
         "padding_bottom": 0,
         "show_full_width": true
@@ -639,21 +640,6 @@
         "enable_quick_add": true,
         "columns_mobile": "2",
         "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "video_jaRRXd": {
-      "type": "video",
-      "settings": {
-        "color_scheme": "scheme-4",
-        "heading": "Cras cosmo",
-        "heading_size": "h2",
-        "description_1": "Duis danos an molestie, sem in sollicitudin sodales mi justo sagittis est id consequat ipsum ligula. Praesent deu odio des nisios dullamcorper sultricies.",
-        "enable_video_looping": true,
-        "video_url": "https://www.youtube.com/watch?v=-Ztod88RxlM&ab_channel=ShonaghScott",
-        "description": "CLEARN MORE",
-        "full_width": false,
-        "padding_top": 8,
         "padding_bottom": 36
       }
     },
@@ -849,7 +835,6 @@
     "main_icon_with_text_rdzYc7",
     "main_customer_review_VjNLnw",
     "featured_collection_aihYLx",
-    "video_jaRRXd",
     "main_faq_p33ian",
     "featured_blog_f4WB6C",
     "instagram_ef3WEw"
