@@ -348,6 +348,7 @@
         "image_item_hVFXXc": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/skin-care-products-and-img-cover-for-section.png",
             "title": "Skincare Tools",
             "des_bottom": "Professional beauty tools and devices for at-home treatments",
             "link": "Shop Now",
@@ -357,6 +358,7 @@
         "image_item_PnzDP9": {
           "type": "image_item",
           "settings": {
+            "image": "shopify://shop_images/make-up-tools-cover-img-for-section-use-pink-pallete.png",
             "title": "Makeup Tools",
             "des_bottom": "Brushes, sponges, and applicators for flawless makeup application",
             "link": "Shop Now",
