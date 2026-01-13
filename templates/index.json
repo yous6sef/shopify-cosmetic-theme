@@ -623,6 +623,7 @@
           "settings": {
             "title": "Customer Reviews",
             "heading_size": "h2",
+            "icon_user": "shopify://shop_images/images_1_4a09bc1b-9d4d-43a2-b803-43342458faa0.jpg",
             "description": "<p>The makeup quality is exceptional! The foundation blends seamlessly, the eyeshadows are highly pigmented, and everything lasts all day. I'm impressed with the color range and the fact that it's all cruelty-free.</p>",
             "name": "Jessica L.",
             "company_name": "Makeup Artist"
