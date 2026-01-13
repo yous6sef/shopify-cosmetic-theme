@@ -221,6 +221,16 @@
         "type": "shopify://apps/put-it-on-lay-buy/blocks/popup_laybuy/9b7a7d93-d79e-4418-abb3-96e54e9f7aa7",
         "disabled": false,
         "settings": {}
+      },
+      "7924418359578431505": {
+        "type": "shopify://apps/seoant-ai-seo/blocks/seoant-core/8e57283b-dcb0-4f7b-a947-fb5c57a0d59d",
+        "disabled": false,
+        "settings": {}
+      },
+      "5134484470793087125": {
+        "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
