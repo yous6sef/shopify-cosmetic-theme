@@ -294,87 +294,87 @@
             "title": "Face Care",
             "des_bottom": "Cleansers, toners, serums, and moisturizers for radiant, healthy skin",
             "link": "Shop Now",
-            "link_url": "/"
+            "link_url": "shopify://collections/face-care"
           }
         },
         "image_item_6La3Vq": {
           "type": "image_item",
           "disabled": true,
           "settings": {
-            "title": "Image With Text",
+            "title": "Makeup & Cosmetics",
             "des_bottom": "",
             "link": "shop now",
-            "link_url": ""
+            "link_url": "shopify://collections/makeup-cosmetics"
           }
         },
         "image_item_Njfgzp": {
           "type": "image_item",
           "disabled": true,
           "settings": {
-            "title": "Image With Text",
+            "title": "Health & Beauty",
             "des_bottom": "",
             "link": "shop now",
-            "link_url": ""
+            "link_url": "shopify://collections/health-beauty"
           }
         },
         "image_item_ijLazJ": {
           "type": "image_item",
           "settings": {
             "image": "shopify://shop_images/LL-scaled.jpg",
-            "title": "Lip Care",
+            "title": "Personal Care",
             "des_bottom": "Lip balms, glosses, and lipsticks in every shade and finish",
             "link": "Shop Now",
-            "link_url": "/"
+            "link_url": "shopify://collections/personal-care"
           }
         },
         "image_item_6RTt7N": {
           "type": "image_item",
           "settings": {
             "image": "shopify://shop_images/eyeshadows-eyeliners-mascaras-and-brow-products-for-stunning-eyes-use-pink-colors-for-img-cover.png",
-            "title": "Eye Makeup",
+            "title": "Hairdressing & Cosmetology",
             "des_bottom": "Eyeshadows, eyeliners, mascaras, and brow products for stunning eyes",
             "link": "Shop Now",
-            "link_url": ""
+            "link_url": "shopify://collections/hairdressing-cosmetology"
           }
         },
         "image_item_HNzABm": {
           "type": "image_item",
           "settings": {
             "image": "shopify://shop_images/luxurious-body-lotions-oils-and-scrubs-for-silky-smooth-skin-pink-xolors-for-img-cover.png",
-            "title": "Body Care",
+            "title": "Clothing Accessories",
             "des_bottom": "Luxurious body lotions, oils, and scrubs for silky smooth skin",
             "link": "Shop Now",
-            "link_url": ""
+            "link_url": "shopify://collections/clothing-accessories"
           }
         },
         "image_item_hVFXXc": {
           "type": "image_item",
           "settings": {
             "image": "shopify://shop_images/professional-beauty-tools-and-devices-for-at-home-treatments-use-pink-it-is-for-img-cover.png",
-            "title": "Skincare Tools",
+            "title": "Cosmetic & Toiletry Bags",
             "des_bottom": "Professional beauty tools and devices for at-home treatments",
             "link": "Shop Now",
-            "link_url": ""
+            "link_url": "shopify://collections/cosmetic-toiletry-bags"
           }
         },
         "image_item_PnzDP9": {
           "type": "image_item",
           "settings": {
             "image": "shopify://shop_images/make-up-tools-cover-img-for-section-use-pink-pallete.png",
-            "title": "Makeup Tools",
+            "title": "Handbags, Wallets & Cases",
             "des_bottom": "Brushes, sponges, and applicators for flawless makeup application",
             "link": "Shop Now",
-            "link_url": ""
+            "link_url": "shopify://collections/handbags-wallets-cases"
           }
         },
         "image_item_ArFyeH": {
           "type": "image_item",
           "settings": {
             "image": "shopify://shop_images/makup-sets-and-boxes-and-gifts-img-cover-for-section-use-pink-palete.png",
-            "title": "Beauty Sets & Gifts",
+            "title": "Health Care",
             "des_bottom": "Curated gift sets perfect for beauty lovers and special occasions",
             "link": "Shop Now",
-            "link_url": ""
+            "link_url": "shopify://collections/health-care"
           }
         },
         "image_item_8TTeUB": {
