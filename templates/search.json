@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -20,9 +29,25 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1768327317d894bb1c": {
+      "type": "apps",
+      "blocks": {
+        "put_it_on_lay_buy_search_laybuy_order_rGKa4z": {
+          "type": "shopify://apps/put-it-on-lay-buy/blocks/search_laybuy_order/9b7a7d93-d79e-4418-abb3-96e54e9f7aa7",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "put_it_on_lay_buy_search_laybuy_order_rGKa4z"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1768327317d894bb1c"
   ]
 }
