@@ -128,6 +128,11 @@
     {%- endif -%}
         {% render 'popup' %}
         {% render 'language-currency' %}
+
+        {% if template.name =='page' %}
+<h1 style="display:none">{{page.title}}</h1>
+{% endif %}
+
         
 </body>
 
