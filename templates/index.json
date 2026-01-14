@@ -221,7 +221,7 @@
         "title_3_top": "Flash Sale",
         "title_3": "Luxury Makeup",
         "link_text_3": "Shop Now",
-        "link_3": "shopify://products/classic-varsity-top",
+        "link_3": "shopify://collections/all",
         "image_4": "shopify://shop_images/images_5.jpg",
         "title_4_top": "New Launch",
         "title_4": "Anti-Aging Serums",
@@ -231,7 +231,7 @@
         "title_top": "Exclusive Offer",
         "title": "Fragrance & Perfumes",
         "link_text": "Shop now",
-        "link": "shopify://collections"
+        "link": "shopify://collections/all"
       }
     },
     "main_product_tabs_hyLhPN": {
