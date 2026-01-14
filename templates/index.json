@@ -192,7 +192,7 @@
         "image_item_RniHfD"
       ],
       "settings": {
-        "color_scheme": "scheme-c552c7b8-e38f-4a1e-900f-b6c6dccd546c",
+        "color_scheme": "scheme-1",
         "padding_top": 10,
         "padding_bottom": 40,
         "title": "Shop by Beauty Brands",
@@ -204,6 +204,7 @@
     },
     "main_block_four_banners_G6ELgm": {
       "type": "main-block-four-banners",
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-5",
         "padding_top": 0,
@@ -232,56 +233,6 @@
         "title": "Fragrance & Perfumes",
         "link_text": "Shop now",
         "link": "shopify://collections/all"
-      }
-    },
-    "main_product_tabs_hyLhPN": {
-      "type": "main-product-tabs",
-      "blocks": {
-        "product_tabs_hkUPCM": {
-          "type": "ProductTabs",
-          "settings": {
-            "title": "Fragrances",
-            "collection": "perfume"
-          }
-        },
-        "product_tabs_KKrLWL": {
-          "type": "ProductTabs",
-          "settings": {
-            "title": "Makeup",
-            "collection": "home-garden"
-          }
-        },
-        "product_tabs_cKEJAk": {
-          "type": "ProductTabs",
-          "settings": {
-            "title": "All Products",
-            "collection": "all"
-          }
-        }
-      },
-      "block_order": [
-        "product_tabs_hkUPCM",
-        "product_tabs_KKrLWL",
-        "product_tabs_cKEJAk"
-      ],
-      "settings": {
-        "color_scheme": "scheme-1",
-        "padding_top": 10,
-        "padding_bottom": 40,
-        "title": "Featured Beauty Collections",
-        "heading_size": "h2",
-        "description": "<p>Discover our curated selection of premium skincare, makeup, and beauty essentials.</p>",
-        "collection_layout": "carousel",
-        "column": 5,
-        "limit_product": 10,
-        "carousel-arrows": true,
-        "carousel-dots": false,
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "enable_quick_add": true
       }
     },
     "main_image_with_text_overlay_m4U7Aa": {
@@ -869,7 +820,6 @@
     "main_icon_with_text_eYyJAy",
     "main_img_link_Fyr7Ky",
     "main_block_four_banners_G6ELgm",
-    "main_product_tabs_hyLhPN",
     "main_image_with_text_overlay_m4U7Aa",
     "featured_product_WT9JV8",
     "image_with_text_KiGUWw",
