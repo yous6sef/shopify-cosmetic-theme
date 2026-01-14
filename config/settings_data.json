@@ -236,6 +236,11 @@
         "type": "shopify://apps/upsell-com-ex-reconvert/blocks/cart-drawer/72c64c30-2f7c-4a71-ae4c-efd1d5d1d2e2",
         "disabled": false,
         "settings": {}
+      },
+      "pagefly-page-builder": {
+        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
