@@ -742,6 +742,7 @@
     },
     "featured_blog_f4WB6C": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-5",
         "heading": "Beauty Tips & Trends",
